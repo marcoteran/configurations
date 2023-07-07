@@ -49,6 +49,8 @@ cd yourrepositoryname
 Aquí encontrarás las configuraciones para los siguientes software:
 
 - [Internet de las cosas](/configurations/iotconfig.md)
+- [Internet de las cosas 2](./configurations/iotconfig.md)
+- [Internet de las cosas 3](configurations/iotconfig.md)
 - [Software 1](link-to-software-1-config)
 - [Software 2](link-to-software-2-config)
 - [Software 3](link-to-software-3-config)
